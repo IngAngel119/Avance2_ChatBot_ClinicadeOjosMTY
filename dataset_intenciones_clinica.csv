@@ -1,0 +1,196 @@
+﻿texto,intencion
+Hola,saludo
+Buenos días,saludo
+Buenas tardes,saludo
+Buenas noches,saludo
+Qué tal,saludo
+"Hola, buen día",saludo
+"Hola, necesito información",saludo
+Saludos,saludo
+"Buen día, ¿me pueden ayudar?",saludo
+"Hola, asistente",saludo
+"Buenas, ¿cómo están?",saludo
+"Hey, buenos días",saludo
+Hola clínica,saludo
+"Qué onda, buenas tardes",saludo
+Un saludo,saludo
+Adiós,despedida
+Hasta luego,despedida
+Nos vemos,despedida
+"Muchas gracias, hasta pronto",despedida
+"Eso es todo, gracias",despedida
+Que tenga buen día,despedida
+Me despido,despedida
+Hasta mañana,despedida
+Gracias por la atención,despedida
+"Listo, adiós",despedida
+Nos vemos después,despedida
+Que esté bien,despedida
+Hasta la próxima,despedida
+"Gracias, eso sería todo",despedida
+"Buen día, hasta luego",despedida
+Qué servicios ofrecen,servicios
+Qué consultas tienen,servicios
+Realizan revisión de la vista,servicios
+Quiero conocer sus servicios,servicios
+Ofrecen consulta oftalmológica,servicios
+Hacen exámenes de la vista,servicios
+Qué tipo de atención brindan,servicios
+Necesito información de sus consultas,servicios
+Tienen evaluación ocular,servicios
+Qué tratamientos ofrecen,servicios
+Me puede decir qué servicios manejan,servicios
+Atienden problemas de visión,servicios
+Quiero saber qué especialidades tienen,servicios
+Hacen seguimiento de salud visual,servicios
+Cuentan con consulta general de ojos,servicios
+A qué hora abren,horarios
+Cuáles son sus horarios,horarios
+A qué hora cierran,horarios
+Atienden los sábados,horarios
+En qué horario puedo acudir,horarios
+Cuál es su horario de atención,horarios
+Abren por la tarde,horarios
+Desde qué hora reciben pacientes,horarios
+Hasta qué hora trabajan,horarios
+Qué días están abiertos,horarios
+Quiero saber cuándo abren,horarios
+Tienen horario corrido,horarios
+A qué hora puedo llamar,horarios
+Atienden entre semana,horarios
+Cuál es el horario de la clínica,horarios
+Dónde están ubicados,ubicacion
+Cuál es su dirección,ubicacion
+Cómo puedo llegar,ubicacion
+En qué zona se encuentra la clínica,ubicacion
+Me comparte la ubicación,ubicacion
+Dónde queda la clínica,ubicacion
+Necesito la dirección exacta,ubicacion
+Cómo llego a sus instalaciones,ubicacion
+Me puede mandar la dirección,ubicacion
+Cuál es su domicilio,ubicacion
+Dónde se localizan,ubicacion
+Quiero saber cómo llegar,ubicacion
+Está en Monterrey,ubicacion
+Me indica dónde están,ubicacion
+Cuál es la ubicación de la clínica,ubicacion
+Quiero agendar una cita,solicitar_cita
+Necesito una consulta,solicitar_cita
+Cómo puedo sacar una cita,solicitar_cita
+Deseo programar una consulta,solicitar_cita
+Me gustaría reservar un horario,solicitar_cita
+Quiero solicitar una cita,solicitar_cita
+Puedo agendar una revisión,solicitar_cita
+Necesito una cita con el oftalmólogo,solicitar_cita
+Cómo reservo una consulta,solicitar_cita
+Quiero una consulta de ojos,solicitar_cita
+Me ayudan a programar una cita,solicitar_cita
+Busco un espacio para consulta,solicitar_cita
+Quiero apartar una cita,solicitar_cita
+Necesito agendar una revisión visual,solicitar_cita
+Me interesa acudir a consulta,solicitar_cita
+Qué debo llevar,requisitos
+Cuáles son los requisitos,requisitos
+Necesito algún documento,requisitos
+Qué documentos necesito para la consulta,requisitos
+Debo llevar estudios previos,requisitos
+Qué necesito presentar,requisitos
+Se requiere identificación,requisitos
+Tengo que llevar mis medicamentos anotados,requisitos
+Qué papeles piden,requisitos
+Hay requisitos para acudir,requisitos
+Qué debo preparar antes de ir,requisitos
+Necesito llevar mi identificación,requisitos
+Debo llevar resultados anteriores,requisitos
+Qué información necesitan,requisitos
+Cómo me preparo para la consulta,requisitos
+Necesito cambiar mi cita,modificar_cita
+Quiero reprogramar la consulta,modificar_cita
+Puedo mover mi horario,modificar_cita
+Deseo modificar mi reservación,modificar_cita
+Cómo cambio la fecha de mi cita,modificar_cita
+Necesito otro horario,modificar_cita
+Quiero cambiar el día de consulta,modificar_cita
+Me gustaría reprogramar,modificar_cita
+Se puede modificar mi cita,modificar_cita
+Tengo que cambiar mi consulta,modificar_cita
+Quiero pasar mi cita a otro día,modificar_cita
+Cómo puedo mover mi cita,modificar_cita
+Necesito ajustar mi reservación,modificar_cita
+Deseo cambiar la hora,modificar_cita
+Puedo reagendar mi consulta,modificar_cita
+Quiero cancelar mi cita,cancelar_cita
+Necesito cancelar la consulta,cancelar_cita
+Cómo anulo mi reservación,cancelar_cita
+Ya no podré asistir,cancelar_cita
+Deseo cancelar mi horario,cancelar_cita
+Quiero dar de baja mi cita,cancelar_cita
+Necesito cancelar la revisión,cancelar_cita
+Puedo cancelar mi consulta,cancelar_cita
+"No podré acudir, quiero cancelar",cancelar_cita
+Cómo cancelo la cita,cancelar_cita
+Quiero dejar sin efecto mi reservación,cancelar_cita
+Me gustaría cancelar mi turno,cancelar_cita
+Necesito anular mi cita,cancelar_cita
+Ya no necesito la consulta,cancelar_cita
+Ayúdeme a cancelar mi cita,cancelar_cita
+Sí,confirmacion
+De acuerdo,confirmacion
+Correcto,confirmacion
+Confirmo,confirmacion
+Está bien,confirmacion
+Así es,confirmacion
+"Sí, por favor",confirmacion
+Acepto,confirmacion
+Exactamente,confirmacion
+Claro que sí,confirmacion
+"Entendido, de acuerdo",confirmacion
+Eso es correcto,confirmacion
+Perfecto,confirmacion
+"Va, está bien",confirmacion
+"Sí, confirmo",confirmacion
+Perdí la visión de repente,urgencia
+Tengo pérdida súbita de visión,urgencia
+Me duele mucho el ojo,urgencia
+Me cayó un químico en el ojo,urgencia
+Tuve un golpe fuerte en el ojo,urgencia
+Veo destellos repentinos,urgencia
+De pronto no puedo ver bien,urgencia
+Tengo dolor ocular intenso,urgencia
+Me entró una sustancia química al ojo,urgencia
+Mi visión se volvió borrosa repentinamente,urgencia
+Sufrí una lesión en el ojo,urgencia
+No veo de un ojo desde hace unos minutos,urgencia
+Tengo una pérdida repentina de visión,urgencia
+Me lastimé el ojo con un objeto,urgencia
+Veo manchas y destellos de repente,urgencia
+Qué puedes hacer,ayuda
+Necesito ayuda,ayuda
+Cómo funciona el asistente,ayuda
+Cuáles son las opciones,ayuda
+En qué me puedes orientar,ayuda
+Qué información tienes,ayuda
+Me puedes explicar cómo usarlo,ayuda
+Ayúdame con una consulta,ayuda
+Qué puedo preguntar,ayuda
+Para qué sirves,ayuda
+Cómo me puedes apoyar,ayuda
+Necesito orientación,ayuda
+Qué temas puedes atender,ayuda
+Dime cómo funciona,ayuda
+Quiero conocer tus funciones,ayuda
+Cuál es el color del edificio,desconocida
+Me recomienda una película,desconocida
+Cómo estará el clima mañana,desconocida
+Quiero comprar zapatos,desconocida
+Cuánto cuesta un automóvil,desconocida
+Quién ganó el partido,desconocida
+Necesito reparar mi computadora,desconocida
+Cuál es la capital de Francia,desconocida
+Tienen servicio de cafetería,desconocida
+Qué música te gusta,desconocida
+Cómo preparo una pizza,desconocida
+Quiero información de vuelos,desconocida
+Dónde puedo comprar una televisión,desconocida
+Cuánto mide una montaña,desconocida
+Cuéntame un chiste,desconocida
